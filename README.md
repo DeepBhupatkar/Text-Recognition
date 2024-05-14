@@ -20,13 +20,19 @@ Vision framework for text recognition
 
 **How to Use:**
 Live Text Recognition:
+
 1.Launch the app and grant camera permissions
+
 2.Point the camera towards the text you wish to recognize.
+
 3.Text will be automatically detected and displayed on the screen.
 
 **Installation:**
+
 1.Clone the repository to your local machine.
+
 2.Open the project in Xcode.
+
 3.Build and run the project on a simulator or a physical iOS device.
 
 **Contributions:**
